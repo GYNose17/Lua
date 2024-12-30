@@ -12,8 +12,6 @@ a = true
 --Em lua podemos mudar o tipo da variável no meio do código sem problemas.
 
 -- : Not In List -> Valor Inesistente 
-nil 
-
 --É o mesmo que a variável A nao existisse
 a = nil 
 
